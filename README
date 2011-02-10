@@ -1,0 +1,4 @@
+Google Chrome Notifications Using Websockets
+
+
+Uses https://github.com/gimite/web-socket-ruby for ruby web socket layer.
