@@ -1,4 +1,10 @@
 Google Chrome Notifications Using Websockets
 
+Simple example currently.
+index.html and the javascript included therein just 
+	echo the value of the text box on the index page.
+
+notifier.rb opens and runs a websocket server on the port and everything it hears echos.
+
 
 Uses https://github.com/gimite/web-socket-ruby for ruby web socket layer.
